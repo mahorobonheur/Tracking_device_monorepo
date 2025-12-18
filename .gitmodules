@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mahorobonheur/tracking_device_backend_25785.git
+[submodule "frontend_app"]
+	path = frontend_app
+	url = https://github.com/mahorobonheur/tracking_device_frontend_25785.git
